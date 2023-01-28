@@ -7,7 +7,7 @@ Developer
 Developer with a passion for building high-performing, scalable applications. Knowledge in JavaScript, Node.js, React, Java, ABAP.
 
 *   🌍  I'm based in Richmond, BC
-*   🧠  I'm learning MERN, Next.js, TypeScript
+*   🧠  I'm learning MERN, Next.js 13, TypeScript
 ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
